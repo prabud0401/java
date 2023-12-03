@@ -1,5 +1,11 @@
+
 public class firstJava {
+    
     public static void main(String[] args) {
-        System.err.println("Hello, World");
+        
+        byte b;
+        int n=10;
+        b=(byte)n;
+        System.out.println(n);
     }
 }
